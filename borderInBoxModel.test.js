@@ -15,8 +15,8 @@ const correct = `
     position: relative;
     display: block;
     width: auto;
-    margin: 10px;
     padding: 10px;
+    margin: 10px;
     border: 1px solid blue;
     overflow: auto;
     color: red;

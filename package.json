@@ -14,7 +14,7 @@
   },
   "scripts": {
     "lint": "node ./node_modules/eslint/bin/eslint.js .",
-    "test": "node ./node_modules/jest-cli/bin/jest.js"
+    "test": "jest"
   },
   "keywords": [
     "stylelint",

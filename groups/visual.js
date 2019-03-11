@@ -8,6 +8,7 @@ const partOne = [
   'table-layout',
   'empty-cells',
   'caption-side',
+  'color',
   'background',
   'background-color',
   'background-image',
